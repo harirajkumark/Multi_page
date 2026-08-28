@@ -41,7 +41,7 @@ body{
 }
 .hero{
   background-image: linear-gradient(rgba(15, 12, 10, 0.72), rgba(15, 12, 10, 0.72)),
-    url("../images/hero-bg.jpg");
+    url("hero-bg.jpg");
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -211,7 +211,7 @@ body{
   text-align: center;
   color: #fff;
   background-image: linear-gradient(rgba(15, 12, 10, 0.72), rgba(15, 12, 10, 0.72)),
-    url("../images/page-header-bg.png");
+    url("page-header-bg.png");
   background-size: cover;
   background-position: center;
   background-color: var(--pizza-dark-2);
